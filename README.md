@@ -10,9 +10,9 @@ Backend Developer (Python, Go) & ML Engineer | Master's Student @ UrFU
  - **Frameworks & Libraries:** FastAPI, PyTorch, Scikit-Learn, SQLAlchemy.
  - **Tools:** Git, PostgreSQL, Docker, CI/CD, uv, Ruff.
  
-### 💻 Featured Projects
+### 💻 Projects
 
-[**sketch_backend_python**](https://github.com/srshkn/sketch_backend_python) — A production-ready template for quickly starting backend development.
+[**sketch_backend_python**](https://github.com/srshkn/sketch_backend_python) — a production-ready template for quickly starting backend development.
 
  - **Goal**: Eliminate the tedium of deploying new services on FastAPI by implementing best architectural practices.
  - **Toolbox**: Python, FastAPI, SQLAlchemy, PostgreSQL, Docker.
