@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey! I'm @srshkn 👋
 
-<!--
-**srshkn/srshkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Bio
 
-Here are some ideas to get you started:
+Backend Developer (Python, Go) & ML Engineer | Master's Student @ UrFU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 Toolbox
+
+ - **Languages:** Python, Go, SQL.
+ - **Frameworks & Libraries:** FastAPI, PyTorch, Scikit-Learn, SQLAlchemy.
+ - **Tools:** Git, PostgreSQL, Docker, CI/CD, uv, Ruff.
+ 
+### 💻 Featured Projects
+
+[**sketch_backend_python**](https://github.com/srshkn/sketch_backend_python) — A production-ready template for quickly starting backend development.
+
+ - **Goal**: Eliminate the tedium of deploying new services on FastAPI by implementing best architectural practices.
+ - **Toolbox**: Python, FastAPI, SQLAlchemy, PostgreSQL, Docker.
+ - **Status**: In active development.
+
+### 🧠 Interests
+
+ - **Machine Learning:** I'm deeply immersed in ML theory and practice as part of my master's program. My particular interests are model quality metrics, natural language processing, and RLHF.
+ - **Backend (Go):** I am independently studying the Go (Golang) ecosystem to create high-performance and scalable microservices.
+ - **System Design:** I am interested in the architecture of distributed systems and the effective interaction of ML models with the backend.
+
+ ### 📫 Connect with me:
+ 
+ - [**Telegram**](https://t.me/srshkn)
